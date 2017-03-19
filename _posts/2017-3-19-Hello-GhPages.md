@@ -7,7 +7,3 @@ title: 你好，GitHubPages
 我是直接fork了Jekyll库，Jekyll是一个简单而且免费的Blog生成工具，它类似于WordPress。
 但Jekyll只会生成静态的网页，不需要数据库支持，但是可以使用Disqus(评论系统)，最重要的
 是它可以免费部署在GitHub上并且绑定自己的域名。
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
