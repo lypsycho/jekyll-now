@@ -12,8 +12,6 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-<<<<<<< HEAD
-[562370867@qq.com](mailto:email@domain.com)
-=======
-[562370867@qq.com](mailto:email@domain.com)
->>>>>>> origin/master
+
+[562370867@qq.com](562370867@qq.com)
+
