@@ -5,9 +5,10 @@ permalink: /about/
 ---
 *技术方向*
 
-![_config.yml]({{ site.baseurl }}/tags/c.png)
+
 ![_config.yml]({{ site.baseurl }}/tags/java.png)
 ![_config.yml]({{ site.baseurl }}/tags/J2EE.png)
+![_config.yml]({{ site.baseurl }}/tags/c.png)
 
 *兴趣爱好*
 
