@@ -5,6 +5,6 @@ permalink: /messages
 ---
 {% include JB/setup %}
 
-### Hi:
+### welcome to my blog:
 
-欢迎访问我的博客，你可以在下面留下你的足迹。\^_\^
+欢迎访问我的博客，有问题和建议可以随时联系我

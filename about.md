@@ -1,22 +1,23 @@
 ---
 layout: page
 title: About 
-permalink: /about
+permalink: /about/
 ---
+*技术方向*
 
-熟悉的
+![](/tag/java.png)
 
-* php lua shell python golang
-* nginx
-* memcache redis
-* mysql
-* wireshark tcpdump charles 
-* vim
-* tennis bodybuilding
+*兴趣爱好*
 
-正在学习的
+![](/tag/Cycling.png)
 
-[plan](/plan/)
+### More Information
 
+我是李宇 ， 男 ， 江苏宿迁人 ，IT界的bookie ，目前大三 ， 就读于南京晓庄学院. 
+
+
+### Contact me
+
+18351991765@163.com
 
 

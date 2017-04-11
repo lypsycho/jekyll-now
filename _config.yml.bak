@@ -9,7 +9,7 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 paginate: 10
 encoding: utf-8
 highlighter: rouge
-markdown: redcarpet
+markdown: kramdown
 #markdown: kramdown 
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data", "tables"]
@@ -20,14 +20,14 @@ redcarpet:
 title : step by step
 tagline:  
 author :
-  name : hyde
-  email :  huyongdeshuxue@126.com
-  github : huyongde
-  #twitter : huyongde
-  weibo : 1719094341
+  name : ly
+  email :  18351991765@163.com
+  github : lypsycho
+  #twitter : lypsycho
+  weibo : 5262334786
   ##v2ex : liberize
-  ##googleplus : 118314345733357791088
-  feedburner : feedname
+  ##googleplus : 
+  feedburner : 
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -37,8 +37,8 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://huyongde.github.io
-#cdn_url : http://liberize.u.qiniudn.com
+production_url : http://lypsycho.github.io
+#cdn_url : 
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -100,7 +100,7 @@ JB :
     duoshuo :
       short_name : hyde
     disqus :
-      short_name : huyongde
+      short_name : lypsycho
     livefyre :
       site_id : 123
     intensedebate :

@@ -88,7 +88,7 @@ a:hover, a:active { outline: none; }
   float: left;
 }
 #top >a { float: left; }
-#logo { margin-top: 20px; }
+#logo { margin-top: -10px; margin-left:-50px;}
 #navbar {
   float: right;
   margin-top: 40px;
