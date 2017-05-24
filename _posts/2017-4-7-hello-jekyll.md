@@ -36,7 +36,7 @@ tags: jekyll Github
 	+ [https://github.com/jekyll/jekyll/issues/3909](https://github.com/jekyll/jekyll/issues/3909)
 	+ [https://github.com/juthilo/run-jekyll-on-windows/issues/34](https://github.com/juthilo/run-jekyll-on-windows/issues/34)
 	+ [http://stackoverflow.com/questions/33389632/jekyll-serve-error](http://stackoverflow.com/questions/33389632/jekyll-serve-error)
-
+	+ [http://blog.csdn.net/wyc12306/article/details/51504885](http://blog.csdn.net/wyc12306/article/details/51504885)
 ## 结语
 以上就是在github上使用jekyll工具搭建属于自己的博客，当然jekyll还有很多功能本文没有提到，其中包括：博客主题、评论插件、分类和归档插件等，请大家自行参考jekyll介绍文档[http://jekyll.com.cn/](http://jekyll.com.cn/)。
 
