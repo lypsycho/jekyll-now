@@ -10,6 +10,7 @@ tags: git 教程
 ![mayun01](/images/mayun01.png)
 
 2. [GIT](http://baike.baidu.com/link?url=UQs_Fc-h_NRQCrg0365ZbpYiG720l2QKM6GWg8zk9l1CWUBe5GT1gxmLgkFdxgne8qmaHl_PEdHMHaRdv-aUxK)是一款免费、开源的分布式版本控制系统，用于敏捷高效地处理任何或小或大的项目。
+
 ## 正文
 2013年中国最大的开源技术社区开源中国上线"码云"平台代码托管服务，被称为"中国本土的GitHub"。那么显而易见码云相对于国内用户而言它的速度更快，并且在码云上我们可以建立公有或者私有项目，而GitHub上要建立私有项目必须付费。本文内容主要为新手简单介绍一下如何使用码云
 
