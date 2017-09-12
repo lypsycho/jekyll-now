@@ -16,7 +16,7 @@ tags: 爱奇艺VIP
  打开爱奇艺客户端（其他客户端一样），选择要看的vip视频
 
 
- ![mysqlerror2](/images/1.png)
+ ![mysqlerror2](/images/1.jpg)
 
 
 ### 第二步：
@@ -25,7 +25,7 @@ tags: 爱奇艺VIP
  ![mysqlerror2](/images/3.png)
 
 
- ![mysqlerror2](/images/2.png)
+ ![mysqlerror2](/images/2.jpg)
 
 
  ![mysqlerror2](/images/4.png)
@@ -43,19 +43,16 @@ tags: 爱奇艺VIP
 
 
 
- ![mysqlerror2](/images/6.png)
+ ![mysqlerror2](/images/6.jpg)
 
 
 
 
- ![mysqlerror2](/images/7.png)
+ ![mysqlerror2](/images/7.jpg)
 
 
 
 ## 扫码下方二维码添加"A返利机器人"
-
-
-
 
 
  ![mysqlerror2](/images/8.jpg)
