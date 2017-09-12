@@ -55,4 +55,4 @@ tags: 爱奇艺VIP
 ## 扫码下方二维码添加"A返利机器人"
 
 
- ![mysqlerror2](/images/8.jpg)
+ ![mysqlerror2](/images/8.JPG)
