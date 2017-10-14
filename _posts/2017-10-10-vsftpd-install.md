@@ -107,7 +107,7 @@ vsftpd是“very secure FTP daemon”的缩写，是一个完全免费的，开�
 
 备注：/etc/sysconfig/下没有iptables的问题,请参考下面链接
 
-<a>http://blog.csdn.net/csdn_lqr/article/details/53885808</a>
+<a href="http://blog.csdn.net/csdn_lqr/article/details/53885808">http://blog.csdn.net/csdn_lqr/article/details/53885808</a>
 
 （3）重启防火墙:<code>service iptables restart</code>
 

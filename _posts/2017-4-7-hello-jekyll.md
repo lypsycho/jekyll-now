@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 关于在Github上搭建个人博客
-tags: jekyll Github
+tags: jekyll 
 ---
 >下文将介绍在github搭建个人博客所使用到的技术、工具以及具体步骤
 
