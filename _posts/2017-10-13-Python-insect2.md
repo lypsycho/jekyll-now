@@ -7,9 +7,9 @@ tags: 教程 Python3
 > 继续Python 3 爬虫
 
 
-##### 上篇文章很粗略的了解了一下什么是爬虫，同时也写了一个Hello 爬虫小程序。本篇文章继续对爬虫的学习，Are your Ready？-嗯~~~Maybe,you will say:
+##### 上篇文章很粗略的了解了一下什么是爬虫，同时也写了一个Hello 爬虫小程序。本篇文章继续对爬虫的学习，Are your ready？-嗯~~~Maybe,you will say:
 
-![p201](images/p201.jpg)
+![p201](/images/p201.jpg)
 
 ##### 首先，学习爬虫前得先学习一下`正则表达式`,关于正则表达式下面放一些链接供大家参考：
 
@@ -22,7 +22,7 @@ tags: 教程 Python3
 ### 先说一下要做的事情，如果所示，http://www.imooc.com/course/list?c=fe这个链接包含慕课网的一些课程信息，现在我们要通过爬虫把慕课网的课程分类信息爬取下来
 
 
-![p202](images/p202.jpg)
+![p202](/images/p202.jpg)
 
 ### 代码
 
@@ -38,15 +38,15 @@ tags: 教程 Python3
 
 ### 输出结果
 
-![p203](images/p203.jpg)
+![p203](/images/p203.jpg)
 
 ##### 下面讲一下正则是如何提取到我们要的数据的，首先我们看一下response.read().decode('utf-8')这个方法返回的data数据是什么样子的
 
-![p204](images/p204.jpg)
+![p204](/images/p204.jpg)
 
 ##### 图片中仅截取了一小部分，可以看出要截取的数据包含在< a >标签中,因此需要定义一条正则表达式去匹配我们需要的数据，即：linkre  = re.compile('data-ct=fe>(.+?)</a>')，`(.+?)`里面的内容将是我们要拿到的数据，正则表达式中‘（）’括号里的内容将被提取出来。我觉得我表达的可能不太清楚，那么，可以看下图：括号里的内容将被匹配提取出来
 
-![p206](images/p206.jpg)
+![p206](/images/p206.jpg)
 
 ## 结语
 
@@ -54,4 +54,4 @@ tags: 教程 Python3
 
 ## You can hava a try and see. 
 
-![p206](images/p207.jpg)
+![p206](/images/p207.jpg)
