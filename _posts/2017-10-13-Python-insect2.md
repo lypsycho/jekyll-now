@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 零基础自学Python 3开发网络爬虫学习（二）
-tags: 教程 Python3 
+tags: Python3 
 ---
 
 > 继续Python 3 爬虫
