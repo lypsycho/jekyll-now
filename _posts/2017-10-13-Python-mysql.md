@@ -63,5 +63,5 @@ tags: 教程 Python3
 
 本篇文章先扯这么多！
 
-![pymysql](/images/pymysql10.png)
+![pymysql](/images/pymysql11.png)
 
