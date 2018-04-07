@@ -100,4 +100,11 @@ tags: Git
 
 ### 10、允许无关的历史
 
-	git pull origin master --allow-unrelated-histories
+###<code style="color:red">git pull origin master --allow-unrelated-histories</code>
+
+### 11、允许无关的历史
+
+###<code style="color:red">git remote add origin git@XXXXX</code>
+
+### 12、.gitignore规则不生效的解决办法，先把本地缓存删除（改变成未被追踪状态），然后再提交 
+###<code style="color:red">git rm -r --cached .</code>
